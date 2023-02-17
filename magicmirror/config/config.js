@@ -185,7 +185,7 @@ let config = {
       scroll: true, // scroll title / artist / album in miniBar style
       logo: true, // display Spotify logo in miniBar style
     }
-  }
+  } // asdasd
 }
 	]
 };
